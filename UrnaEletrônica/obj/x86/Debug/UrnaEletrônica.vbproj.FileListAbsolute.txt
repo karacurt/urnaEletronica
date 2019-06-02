@@ -1,0 +1,30 @@
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\bin\Debug\UrnaEletrônica.exe
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\bin\Debug\UrnaEletrônica.pdb
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\bin\Debug\UrnaEletrônica.xml
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Form1.resources
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Resources.resources
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.vbproj.GenerateResource.Cache
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.exe
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.xml
+C:\Users\Aluno Tarde\AppData\Local\Temporary Projects\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.pdb
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.exe
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.xml
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.pdb
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\bin\Debug\UrnaEletrônica.exe
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\bin\Debug\UrnaEletrônica.pdb
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\bin\Debug\UrnaEletrônica.xml
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Form1.resources
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Resources.resources
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.vbproj.GenerateResource.Cache
+C:\Users\Aluno Tarde\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Form2.resources
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.exe
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.xml
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.pdb
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\bin\Debug\UrnaEletrônica.exe
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\bin\Debug\UrnaEletrônica.pdb
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\bin\Debug\UrnaEletrônica.xml
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Form1.resources
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Form2.resources
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Resources.resources
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.vbproj.GenerateResource.Cache
+C:\Users\Daniel.DANIEL\Desktop\UrnaEletrônica\UrnaEletrônica\obj\x86\Debug\UrnaEletrônica.Form3.resources
